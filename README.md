@@ -46,7 +46,7 @@
 
 ## 📱 Screenshots
 
-*Coming soon - Add screenshots to `docs/SCREENSHOTS/` folder*
+*Coming soon
 
 ## 🚀 Installation
 
